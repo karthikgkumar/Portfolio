@@ -49,10 +49,11 @@ params:
   profileMode:
     enabled: true
     title: "Karthik G Kumar"
-    subtitle: Hi 👋! I'm Karthik G Kumar, an ambitious DevOps Intern at [**16Bit.ai**](https://www.16bit.ai), an innovative healthcare startup in Toronto. Currently pursuing my [**MSc in Applied Computing**](https://mscac.utoronto.ca/) at the esteemed University of Toronto, I bring a solid foundation in Software Engineering with professional experience. I am captivated by the realm of Cloud Computing and DevOps practices, seeking to revolutionize how we deploy applications in the modern era. To enhance my expertise, I have also obtained AWS associate-level certifications as a Solutions Architect and Developer, further bolstering my skills in the cloud computing domain. My unwavering curiosity and drive push me to explore fresh avenues to redefine technological frontiers. During my leisure hours, I channel my creativity into crafting engaging YouTube 🎬 videos, where I share my journey as an international student in Canada 🇨🇦.
-    imageUrl: "home/formal-pic-small.jpeg"
+    subtitle: Hi 👋! I'm Karthik G Kumar, an ambitious Data Analyst. Currently pursuing my [**BTech in Computer Science and Engineering**](https://mscac.utoronto.ca/) at the esteemed Govt Model Engineering College. I am captivated by the realm of Dta Analysis and Dta Science practices, seeking to revolutionize how we deploy applications in the modern era. My unwavering curiosity and drive push me to explore fresh
+     avenues to redefine technological frontiers. During my leisure hours, I channel my creativity into crafting engaging YouTube 🎬 videos, writing blogs and do community works.
+    imageUrl: "home/Karthik-G-Kumar.jpg"
     imageWidth: 220
-    imageHeight: 220
+    imageHeight: 300
     # buttons:
     #   - name: Resume
     #     url: ""
@@ -67,13 +68,13 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
+      url: "mailto:karthikgkumar2002@gmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/abdurrahmankalim"
+      url: "https://www.linkedin.com/in/karthik-g-kumar"
     - name: "github"
-      url: "https://github.com/arkalim"
+      url: "https://github.com/karthikgkumar"
     - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
+      url: "https://www.youtube.com/c/"
     - name: "cv"
       url: "https://drive.google.com/file/d/1U6Gg2RnHSCthtWLbZJBlAEI3V1WGjZty/view"
 
