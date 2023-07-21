@@ -49,8 +49,8 @@ params:
   profileMode:
     enabled: true
     title: "Karthik G Kumar"
-    subtitle: Hi 👋! I'm Karthik G Kumar, an ambitious Data Analyst. Currently pursuing my [**BTech in Computer Science and Engineering**](https://mscac.utoronto.ca/) at the esteemed Govt Model Engineering College. I am captivated by the realm of Dta Analysis and Dta Science practices, seeking to revolutionize how we deploy applications in the modern era. My unwavering curiosity and drive push me to explore fresh
-     avenues to redefine technological frontiers. During my leisure hours, I channel my creativity into crafting engaging YouTube 🎬 videos, writing blogs and do community works.
+    subtitle: "Hi 👋! I'm Karthik G Kumar, an ambitious Data Analyst. Currently pursuing my [**BTech in Computer Science and Engineering**](https://www.mec.ac.in/) at the esteemed Govt Model Engineering College. I am captivated by the realm of Data Analysis and Data Science practices, seeking to revolutionize how we deploy applications in the modern era. My unwavering curiosity and drive push me to explore fresh
+     avenues to redefine technological frontiers. During my leisure hours, I channel my creativity into crafting engaging YouTube 🎬 videos, writing blogs and do community works."
     imageUrl: "home/Karthik-G-Kumar.jpg"
     imageWidth: 220
     imageHeight: 300
