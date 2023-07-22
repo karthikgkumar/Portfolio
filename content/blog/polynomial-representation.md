@@ -1,7 +1,7 @@
 ---
 title: "Polynomial Representation using Arrays"
 description: "How can we represent polynomials using arrays effectively 🤔"
-dateString: Mar 2023
+dateString: July 2023
 draft: false
 tags: ["DSA", "Polynomial", "Algorithm", "Arrays"]
 weight: 101
