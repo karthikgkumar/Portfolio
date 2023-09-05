@@ -76,7 +76,7 @@ params:
     - name: "youtube"
       url: "https://www.youtube.com/@engineeringchettan"
     - name: "cv"
-      url: ""
+      url: "https://drive.google.com/file/d/1TTs_XAKBxJX7XUWIMQmCVxwvsT91_rWM/view?usp=sharing"
 
   # text search
   fuseOpts:
