@@ -13,6 +13,10 @@ menu:
       name: Blog
       url: /blog
       weight: 20
+    - identifier: AI_projects
+      name: AI 
+      url: /ai_projects
+      weight: 20
     - identifier: projects
       name: Projects
       url: /projects
@@ -41,6 +45,9 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   hideMeta: false
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
 
   # for enchanced SEO
   env: production
@@ -49,9 +56,9 @@ params:
   profileMode:
     enabled: true
     title: "Karthik G Kumar"
-    subtitle: "Hi 👋! I'm Karthik G Kumar, an ambitious Data Scientist. Currently pursuing my [**BTech in Computer Science and Engineering**](https://www.mec.ac.in/) at the esteemed Govt Model Engineering College. I am captivated by the realm of Data Analysis and Data Science practices, seeking to revolutionize how we deploy applications in the modern era.Data Cleaning, Exploratory Data Analysis, Feature Engineering, Model Deployment are some of my favourite Areas. Currently, learning Deep Learning. My unwavering curiosity and drive push me to explore fresh
-     avenues to redefine technological frontiers. During my leisure hours, I channel my creativity into crafting engaging YouTube 🎬 videos, writing blogs and do community works."
-    imageUrl: "home/Karthik-G-Kumar.jpg"
+    subtitle: "Hi 👋! I'm Karthik G Kumar, currently pursuing my [**BTech in Computer Science and Engineering**](https://www.mec.ac.in/) at the esteemed Government Model Engineering College. I am also interning as AI Engineer at PathOr platforms. I am captivated by the realm of AI and Data Science practices, seeking to revolutionize how we deploy applications in the modern era. AI Agent creations, API creations, Exploratory Data Analysis, Feature Engineering, Model Deployment are some of my favourite Areas. 
+    Currently, learning Deep Learning. My unwavering curiosity and drive push me to explore fresh avenues to redefine technological frontiers. During my leisure hours, I channel my creativity into crafting engaging YouTube 🎬 videos, writing blogs and do community works."
+    imageUrl: "home/karthik_pro.jpg"
     imageWidth: 220
     imageHeight: 300
     # buttons:
