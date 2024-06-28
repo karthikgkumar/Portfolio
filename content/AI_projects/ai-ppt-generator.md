@@ -6,7 +6,7 @@ draft: false
 tags: ["AI", "agents", "presentation", "ppt"]
 weight: 101
 ---
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Sby1uJ_NFIY?si=hf3MDT1z6A1HqibO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YEgWdrZ1Kk0?si=ggL8JkaVO5BiVqm9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 As a developer, I'm constantly looking for ways to bridge the gap between human creativity and the efficiency of technology. One area ripe for disruption: presentations. We've all been there - staring down a blank slide deck, overwhelmed by the prospect of transforming a complex topic into engaging visuals.<br/>
 
