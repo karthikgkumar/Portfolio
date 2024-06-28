@@ -6,8 +6,6 @@ draft: false
 tags: ["Tableau", "ETL", "Data Visualisation", "Data Analytics", "Star Schema", "SQL", "Database"]
 showToc: false
 weight: 203
-cover:
-    image: "projects/sales_insights/Sales_insights_snap.jpg"
 --- 
 ### 🔗 [Tableau Public Vizz](https://public.tableau.com/app/profile/karthik.g.kumar/viz/SalesInsightsProject_16899308732900/Dashboard1)
 

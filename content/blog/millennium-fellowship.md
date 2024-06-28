@@ -5,8 +5,6 @@ dateString: July 2023
 draft: false
 tags: ["Millennium Fellowship", "United Nations Academic Impact", "Social Entreprenureship", "Leadership"]
 weight: 101
-cover:
-    image: "/blog/millennium-fellowship/millennium_fellowship_1.png"
 ---
 
 Six months have passed since I completed the Millennium Fellowship, and I am proud to have been the Campus Director during my first year, leading 26 Millennium Fellows of 2022 Cohort. For those who are unfamiliar with the Millennium Fellowship, I recommend reading the blog written by my senior Niranjana, which covers all application procedures for both rounds.

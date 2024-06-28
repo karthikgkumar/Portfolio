@@ -6,8 +6,6 @@ draft: false
 tags: ["Exploratory Data Analysis", "Machine Learning", "Data Visualisation", "Clasification"]
 showToc: false
 weight: 203
-cover:
-    image: ""
 --- 
 ### 🔗 [Kaggle Notebook Link](https://www.kaggle.com/code/karthikgkumar/income-classifier)
 

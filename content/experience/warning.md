@@ -6,8 +6,6 @@ draft: false
 tags: ["Intern", "Techgenetsia"]
 showToc: false
 weight: 203
-cover:
-    image: "/experience/techgenetsia.png"
 --- 
 
 Intern at Techgenetsia
