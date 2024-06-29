@@ -1,12 +1,13 @@
 ---
 title: "PDF Generator Assistant"
-description: "An AI agent which creates stunning PDF's with a prompt 🎨"
+description: "An AI agent which creates stunning PDF's with a prompt!"
 dateString: June 2024
 draft: false
 tags: ["AI", "agents", "pdf", "report"]
 weight: 101
 ---
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/YEgWdrZ1Kk0?si=ggL8JkaVO5BiVqm9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dEIgIlxVxqE?si=WgDpDIECWETT3NmS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br/>
 
 As a developer, I'm passionate about empowering users to communicate their ideas effectively. Traditional presentation creation tools can be time-consuming and require design expertise. This inspired my latest project: a presentation assistant that generates creative and informative PDFs on any topic, all within seconds.
 

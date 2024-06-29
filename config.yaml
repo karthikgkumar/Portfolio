@@ -46,7 +46,6 @@ params:
   ShowCodeCopyButtons: true
   hideMeta: false
   ShowShareButtons: true
-  ShowReadingTime: true
   ShowPostNavLinks: true
 
   # for enchanced SEO

@@ -1,12 +1,13 @@
 ---
-title: "Recycle Bin assistant "
-description: "An AI agent which clears your recycle bin with a prompt 🎨"
+title: "AI Recycle Bin assistant "
+description: "An AI agent which clears your recycle bin with a prompt ♻"
 dateString: June 2024
 draft: false
 tags: ["AI", "agents", "recycle bin", "clean", "productivity", "device"]
 weight: 101
 ---
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/YEgWdrZ1Kk0?si=ggL8JkaVO5BiVqm9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jbgbeKJNQPo?si=eYqgQ7WRVB1rIGQR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br/>
 
 As a developer, I'm passionate about creating tools that simplify everyday tasks. One area that often feels like a digital chore? Managing the recycle bin. We've all been there - overflowing bins, accidentally deleting important files, or simply the tedium of manually clearing it out.<br/>
 

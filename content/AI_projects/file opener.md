@@ -1,12 +1,15 @@
 ---
-title: "AI File Opener "
-description: "An AI agent which can open any files/folders in your local system🎨"
+title: "File Opener Assistant "
+description: "An AI agent which can open any files/folders in your local system📁"
 dateString: June 2024
 draft: false
 tags: ["AI", "agents", "organization", "folder","files", "productivity", "device"]
 weight: 101
 ---
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/YEgWdrZ1Kk0?si=ggL8JkaVO5BiVqm9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+```
+Video coming soon!
+```
 As a developer, I'm driven by the desire to streamline everyday interactions with technology. One area ripe for improvement? File navigation. Locating specific documents or folders can feel like a digital treasure hunt. Enter my latest project: a user-friendly file opener assistant designed to eliminate the hassle of finding and opening files on your local system.
 ### Effortless File Access
 

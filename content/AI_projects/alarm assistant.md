@@ -1,11 +1,14 @@
 ---
 title: "Alarm assistant "
-description: "An AI agent which sets alarms&timers with a prompt 🎨"
+description: "An AI agent which sets alarms&timers with a prompt ⏰"
 dateString: June 2024
 draft: false
 tags: ["AI", "agents", "alarm", "timer", "productivity", "device"]
 weight: 101
 ---
+```
+Video coming soon!
+```
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/YEgWdrZ1Kk0?si=ggL8JkaVO5BiVqm9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 As a developer, I'm fascinated by the ways technology can streamline our relationship with time. What if managing alarms and timers wasn't a struggle, but a seamless experience? This vision fueled the creation of my latest project: a user-friendly alarm and timer assistant.
 

@@ -1,11 +1,14 @@
 ---
-title: "AI Folder Organizer "
-description: "An AI agent which can organise your folder🎨"
+title: "Folder Organizer Assistant "
+description: "An AI agent which can organise your folder📁"
 dateString: June 2024
 draft: false
 tags: ["AI", "agents", "organization", "folder","files", "productivity", "device"]
 weight: 101
 ---
+```
+Video coming soon!
+```
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/YEgWdrZ1Kk0?si=ggL8JkaVO5BiVqm9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 As a developer, I'm passionate about tackling the ever-present challenge of digital clutter. We've all been there - overflowing folders, misplaced documents, and the constant struggle to find what we need. This inspired my latest project: a user-friendly file organizer assistant designed to bring order to your local file system.
 

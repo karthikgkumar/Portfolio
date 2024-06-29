@@ -1,12 +1,13 @@
 ---
-title: "Alarm assistant "
-description: "An AI agent which can control screen's brightness with a prompt 🎨"
+title: "AI Brightness assistant "
+description: "An AI agent which can control screen's brightness with a prompt!"
 dateString: June 2024
 draft: false
 tags: ["AI", "agents", "brightness", "nightmode", "productivity", "device"]
 weight: 101
 ---
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/YEgWdrZ1Kk0?si=ggL8JkaVO5BiVqm9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fedlPia4MBA?si=5vQmciOrmyZfu0nI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br/>
 As a developer, I'm constantly seeking ways to enhance the user experience through technology. One area ripe for improvement? Screen management. Glaring screens at night, struggling to find the perfect brightness balance - these are common frustrations.<br/>
 
 Enter my latest project: a user-friendly screen assistant designed to optimize your visual comfort on Windows.
