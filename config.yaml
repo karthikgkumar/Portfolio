@@ -81,8 +81,8 @@ params:
       url: "https://github.com/karthikgkumar"
     - name: "youtube"
       url: "https://www.youtube.com/@engineeringchettan"
-    - name: "cv"
-      url: "https://drive.google.com/file/d/1TTs_XAKBxJX7XUWIMQmCVxwvsT91_rWM/view?usp=sharing"
+    - name: "Resume"
+      url: "https://drive.google.com/file/d/1tlbQ2IRZq7RoGhMA4x2ftYEAVv8WqMAL/view?usp=sharing"
 
   # text search
   fuseOpts:
