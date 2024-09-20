@@ -82,7 +82,7 @@ params:
     - name: "youtube"
       url: "https://www.youtube.com/@engineeringchettan"
     - name: "Resume"
-      url: "https://drive.google.com/file/d/1tlbQ2IRZq7RoGhMA4x2ftYEAVv8WqMAL/view?usp=sharing"
+      url: "https://drive.google.com/file/d/1N5wfD_JgVa_C1huHdq0H9jbMP1OwnHh3/view?usp=sharing"
 
   # text search
   fuseOpts:
