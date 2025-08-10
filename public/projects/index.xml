@@ -16,6 +16,15 @@
     </item>
     
     <item>
+      <title>Orma AI</title>
+      <link>http://localhost:1313/projects/orma-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/orma-ai/</guid>
+      <description>A WhatsApp bot assisting early-stage dementia patients in recording and retrieving memories using Retrieval Augmented Generation.</description>
+    </item>
+    
+    <item>
       <title>Sales Insights Project</title>
       <link>http://localhost:1313/projects/sales-insights-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

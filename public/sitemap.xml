@@ -2,15 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/ai_projects/brightness-assistant/</loc>
+  </url><url>
     <loc>http://localhost:1313/ai_projects/ai-ppt-generator/</loc>
   </url><url>
+    <loc>http://localhost:1313/ai_projects/recycling-bin-assistant/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ai_projects/alarm-assistant/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ai_projects/file-opener/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ai_projects/file-organizer/</loc>
+  </url><url>
     <loc>http://localhost:1313/blog/millennium-fellowship/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ai_projects/ai-pdf-generator/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/polynomial-representation/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/income-classifier/</loc>
   </url><url>
     <loc>http://localhost:1313/experience/warning/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/orma-ai/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/sales-insights-project/</loc>
   </url><url>
@@ -20,21 +34,29 @@
   </url><url>
     <loc>http://localhost:1313/ai_projects/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/alarm/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/algorithm/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/arrays/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/brightness/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/clasification/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/clean/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/data-analytics/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/data-visualisation/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/database/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/device/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/dsa/</loc>
   </url><url>
@@ -44,15 +66,27 @@
   </url><url>
     <loc>http://localhost:1313/tags/exploratory-data-analysis/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/files/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/folder/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/intern/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/leadership/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/llm/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/machine-learning/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/millennium-fellowship/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/nightmode/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/organization/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/pdf/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/polynomial/</loc>
   </url><url>
@@ -60,7 +94,15 @@
   </url><url>
     <loc>http://localhost:1313/tags/presentation/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/productivity/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/rag/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/recycle-bin/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/report/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url><url>
@@ -76,6 +118,10 @@
   </url><url>
     <loc>http://localhost:1313/tags/techgenetsia/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/timer/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/united-nations-academic-impact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/whatsapp/</loc>
   </url>
 </urlset>

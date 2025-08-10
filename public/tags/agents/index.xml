@@ -7,12 +7,66 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://localhost:1313/tags/agents/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>AI Brightness assistant </title>
+      <link>http://localhost:1313/ai_projects/brightness-assistant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ai_projects/brightness-assistant/</guid>
+      <description>An AI agent which can control screen&amp;#39;s brightness with a prompt!</description>
+    </item>
+    
+    <item>
       <title>AI PPT Generator </title>
       <link>http://localhost:1313/ai_projects/ai-ppt-generator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/ai_projects/ai-ppt-generator/</guid>
       <description>An AI agent which creates stunning presentations with a prompt 🎨</description>
+    </item>
+    
+    <item>
+      <title>AI Recycle Bin assistant </title>
+      <link>http://localhost:1313/ai_projects/recycling-bin-assistant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ai_projects/recycling-bin-assistant/</guid>
+      <description>An AI agent which clears your recycle bin with a prompt ♻</description>
+    </item>
+    
+    <item>
+      <title>Alarm assistant </title>
+      <link>http://localhost:1313/ai_projects/alarm-assistant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ai_projects/alarm-assistant/</guid>
+      <description>An AI agent which sets alarms&amp;amp;timers with a prompt ⏰</description>
+    </item>
+    
+    <item>
+      <title>File Opener Assistant </title>
+      <link>http://localhost:1313/ai_projects/file-opener/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ai_projects/file-opener/</guid>
+      <description>An AI agent which can open any files/folders in your local system📁</description>
+    </item>
+    
+    <item>
+      <title>Folder Organizer Assistant </title>
+      <link>http://localhost:1313/ai_projects/file-organizer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ai_projects/file-organizer/</guid>
+      <description>An AI agent which can organise your folder📁</description>
+    </item>
+    
+    <item>
+      <title>PDF Generator Assistant</title>
+      <link>http://localhost:1313/ai_projects/ai-pdf-generator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ai_projects/ai-pdf-generator/</guid>
+      <description>An AI agent which creates stunning PDF&amp;#39;s with a prompt!</description>
     </item>
     
   </channel>

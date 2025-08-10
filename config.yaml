@@ -55,8 +55,7 @@ params:
   profileMode:
     enabled: true
     title: "Karthik G Kumar"
-    subtitle: "Hi 👋! I'm Karthik G Kumar, currently pursuing my [**BTech in Computer Science and Engineering**](https://www.mec.ac.in/) at the esteemed Government Model Engineering College. I am also interning as AI Engineer at PathOr platforms. I am captivated by the realm of AI and Data Science practices, seeking to revolutionize how we deploy applications in the modern era. AI Agent creations, API creations, Exploratory Data Analysis, Feature Engineering, Model Deployment are some of my favourite Areas. 
-    Currently, learning Deep Learning. My unwavering curiosity and drive push me to explore fresh avenues to redefine technological frontiers. During my leisure hours, I channel my creativity into crafting engaging YouTube 🎬 videos, writing blogs and do community works."
+    subtitle: "Hi 👋! I'm Karthik G Kumar, currently working as Associate Cloud Engineer at SADA, an insight company. This is my very personal website where I put forward my thoughts, my interests. Currently, in the midst of updating the website"
     imageUrl: "home/karthik_pro.jpg"
     imageWidth: 220
     imageHeight: 300
@@ -74,7 +73,7 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:karthikgkumar2002@gmail.com"
+      url: "mailto:karthikgkumar.pro@gmail.com"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/karthik-g-kumar"
     - name: "github"
@@ -82,7 +81,7 @@ params:
     - name: "youtube"
       url: "https://www.youtube.com/@engineeringchettan"
     - name: "Resume"
-      url: "https://drive.google.com/file/d/1N5wfD_JgVa_C1huHdq0H9jbMP1OwnHh3/view?usp=sharing"
+      url: ""
 
   # text search
   fuseOpts:

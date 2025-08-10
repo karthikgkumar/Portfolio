@@ -25,6 +25,15 @@
     </item>
     
     <item>
+      <title>Alarm</title>
+      <link>http://localhost:1313/tags/alarm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/alarm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Algorithm</title>
       <link>http://localhost:1313/tags/algorithm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -43,11 +52,29 @@
     </item>
     
     <item>
+      <title>Brightness</title>
+      <link>http://localhost:1313/tags/brightness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/brightness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Clasification</title>
       <link>http://localhost:1313/tags/clasification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/clasification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clean</title>
+      <link>http://localhost:1313/tags/clean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/clean/</guid>
       <description></description>
     </item>
     
@@ -79,6 +106,15 @@
     </item>
     
     <item>
+      <title>Device</title>
+      <link>http://localhost:1313/tags/device/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/device/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DSA</title>
       <link>http://localhost:1313/tags/dsa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -106,6 +142,24 @@
     </item>
     
     <item>
+      <title>Files</title>
+      <link>http://localhost:1313/tags/files/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/files/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Folder</title>
+      <link>http://localhost:1313/tags/folder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/folder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Intern</title>
       <link>http://localhost:1313/tags/intern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -124,6 +178,15 @@
     </item>
     
     <item>
+      <title>LLM</title>
+      <link>http://localhost:1313/tags/llm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/llm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine Learning</title>
       <link>http://localhost:1313/tags/machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -138,6 +201,33 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/millennium-fellowship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nightmode</title>
+      <link>http://localhost:1313/tags/nightmode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/nightmode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organization</title>
+      <link>http://localhost:1313/tags/organization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/organization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pdf</title>
+      <link>http://localhost:1313/tags/pdf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/pdf/</guid>
       <description></description>
     </item>
     
@@ -165,6 +255,42 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>http://localhost:1313/tags/productivity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RAG</title>
+      <link>http://localhost:1313/tags/rag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/rag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recycle Bin</title>
+      <link>http://localhost:1313/tags/recycle-bin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/recycle-bin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report</title>
+      <link>http://localhost:1313/tags/report/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/report/</guid>
       <description></description>
     </item>
     
@@ -214,11 +340,29 @@
     </item>
     
     <item>
+      <title>Timer</title>
+      <link>http://localhost:1313/tags/timer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/timer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>United Nations Academic Impact</title>
       <link>http://localhost:1313/tags/united-nations-academic-impact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/united-nations-academic-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whatsapp</title>
+      <link>http://localhost:1313/tags/whatsapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/whatsapp/</guid>
       <description></description>
     </item>
     
